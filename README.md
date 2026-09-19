@@ -9,6 +9,7 @@ Minimization Example 1 & 2-ACTIVITY 2
 <img width="983" height="531" alt="image" src="https://github.com/user-attachments/assets/b8d31d7b-350c-4344-a4b1-1b3e7c47acf6" />
 
 MINIMIZATION ACTIVITY 3
+
 <img width="490" height="455" alt="image" src="https://github.com/user-attachments/assets/05a02272-1c27-4527-b335-909bbf1920c4" />
 <img width="492" height="612" alt="image" src="https://github.com/user-attachments/assets/8206e1fb-8d5c-4b40-88d1-b2dd41690330" />
 <img width="492" height="622" alt="image" src="https://github.com/user-attachments/assets/dcd8cb0c-bcba-4001-b5db-a5a74edd90a8" />
